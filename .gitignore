@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore temporary files
+tmp/
+temp/
+
+# Ignore sensitive config if needed (optional, but recommended if you have local secrets)
+# config.php
